@@ -1,7 +1,4 @@
-[![Build Status](https://travis-ci.com/Toliak/lab0303.svg?branch=master)](https://travis-ci.com/Toliak/lab0303)
-[![coverage](https://gitlab.toliak.ru/bmstu-cpp-3-sem/lab0303/badges/master/pipeline.svg)](https://gitlab.toliak.ru/bmstu-cpp-3-sem/lab0303/pipelines)
-![Code size](https://img.shields.io/github/languages/code-size/Toliak/lab0303.svg)
-![GitHub Repo size](https://img.shields.io/github/repo-size/Toliak/lab0303.svg)
+[![Build Status](https://travis-ci.org/BOSS-HUNTER/lab3.svg?branch=master)](https://travis-ci.org/BOSS-HUNTER/lab3)
 
 # Лабораторная работа №3
 
