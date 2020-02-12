@@ -1,4 +1,4 @@
-image: toliak/bootstrap-cpp:latest
+image: timenergy/bootstrap-cpp:latest
 
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
